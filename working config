@@ -1,0 +1,13 @@
+
+
+First things first, it is recommended to get both PAL versions of the game. Reason being pcsx2 struggles to get to 60fps and the PAL version runs at 50fps. Night tracks and licence tests are typically difficult to run at full speed.
+
+Before starting the game go on the pcsx2 main menu, Config then Graphic Settings and change CRC to Aggressive and change Internal Resolution to X2. Now change your Renderer to software mode and at the bottom of the page at software mode, change Extra Rendering threads to 8. You can now put your Renderer back to Automatic.
+
+Now start the game and press the Steam button and press right to go to controller settings. Go to edit layout then Buttons and change one of the Back Grips by going to Add command and change it to F9.
+
+All done and ready to play! Now if you play a night track or any demanding track just press whatever button you put F9 on. This changes it to software mode which looks alot worse but runs at 50fps perfectly. I only have to run it on software mode for a few tracks. Just press F9 to run on hardware again when finished.
+
+Hope this helps someone out as nothing really scratches the Gran Turismo itch and it's amazing on the deck.
+
+Update*** I've since found out that enabling UMA FB to 4Gb in the Steamdeck bios also makes a massive difference. Really easy to do with a quick Google search.
